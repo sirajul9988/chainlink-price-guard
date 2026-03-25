@@ -1,0 +1,10 @@
+{
+  "name": "chainlink-price-guard",
+  "version": "1.0.0",
+  "description": "Secure Chainlink Price Feed Consumer",
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
